@@ -1,0 +1,704 @@
+{
+  "basics": {
+    "name": "刘宏伟",
+    "headline": "热爱前端开发，热衷全栈技术",
+    "email": "1327374483@qq.com",
+    "phone": "13155961851",
+    "location": "北京市 海淀区",
+    "url": {
+      "label": "",
+      "href": ""
+    },
+    "customFields": [
+      {
+        "id": "zpgwx81djww3r0yfjuekucw7",
+        "icon": "calendar-blank",
+        "name": "",
+        "value": "21岁"
+      },
+      {
+        "id": "xoxbozon33mnizp3eiq0birz",
+        "icon": "users-three",
+        "name": "",
+        "value": "汉族"
+      },
+      {
+        "id": "vq5y39j5smfh0vivj5stmmv9",
+        "icon": "student",
+        "name": "",
+        "value": "本科"
+      },
+      {
+        "id": "bnl2xt2wf0xiqqekoj79e08u",
+        "icon": "identification-card",
+        "name": "",
+        "value": "共青团员"
+      }
+    ],
+    "picture": {
+      "url": "https://storage.rxresu.me/clxcz65v8007s5gpg3k5whucw/pictures/clxcz65v8007s5gpg3k5whucw.jpg",
+      "size": 128,
+      "aspectRatio": 0.75,
+      "borderRadius": 0,
+      "effects": {
+        "hidden": false,
+        "border": true,
+        "grayscale": false
+      }
+    }
+  },
+  "sections": {
+    "summary": {
+      "name": "Summary",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "summary",
+      "content": "<p style=\"text-align: justify\"> 源于高三网课时期想把 C++ 编译出的程序突破命令行窗口限制的冲动，我开始逐渐接触先进的软件开发技术。并于大学一年级加入学习的技术社团天外天工作室，从此开始大量学习产品开发与工程化等相关知识，接手并顺利完成若干相关项目，积累了许多经验。并计划毕业之后从事相关工作，更好地实现个人价值。</p>"
+    },
+    "awards": {
+      "name": "荣誉奖项",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "awards",
+      "items": [
+        {
+          "id": "lymyb2fpomm8oj3ycwygbtoq",
+          "visible": true,
+          "title": "第三届“智网杯”天津公安机关电子数据分析大比武青年组个人一等奖（1人）",
+          "awarder": "",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "vu8dluvpl05twmw8c1x1zt88",
+          "visible": true,
+          "title": "天津大学D.I.E.战队新生选拔赛冠军",
+          "awarder": "",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "f9yqhfxabvfvdjezo5nu7xi7",
+          "visible": true,
+          "title": "大学生创新创业(大创)市级项目一等奖",
+          "awarder": "",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "ozuptoxnodbu8vre3lkl6sua",
+          "visible": true,
+          "title": "第十六届全国大学生信息安全竞赛创新能力赛华北赛区分区赛二等奖",
+          "awarder": "",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "onet3jnw84r4ynmcwojmz5jl",
+          "visible": true,
+          "title": "天津大学\"北洋杯\"数学竞赛二等奖",
+          "awarder": "",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "c54bm3xrvdu2kv5tub90mmfp",
+          "visible": true,
+          "title": "“小米杯” | 2021年天津大学程序设计挑战赛二等奖",
+          "awarder": "",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "gvutj4iizc199stp5glr0cq9",
+          "visible": true,
+          "title": "第一届字节跳动青训营最终项目评比亚军",
+          "awarder": "",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "d7wrlx4m4qq918ugo34p4cqv",
+          "visible": true,
+          "title": "CCF CSP-S非专业级软件能力认证（等同于原NOIP复赛提高组）二等奖",
+          "awarder": "",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "rf3cabm9q19ep635qb19haqg",
+          "visible": true,
+          "title": "第十七届全国大学生信息安全竞赛创新能力赛华北赛区分区赛三等奖",
+          "awarder": "",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "jbuix0vsj052jiahpfjorsgq",
+          "visible": true,
+          "title": "第一届“长城杯”信息安全铁人三项赛半决赛三等奖",
+          "awarder": "",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "certifications": {
+      "name": "Certifications",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "certifications",
+      "items": []
+    },
+    "education": {
+      "name": "教育经历",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "education",
+      "items": [
+        {
+          "id": "p7d31v24sltjw16v6jhzg0vt",
+          "visible": true,
+          "institution": "天津大学",
+          "studyType": "本科生",
+          "area": "智能与计算学部 网络空间安全专业",
+          "score": "",
+          "date": "2022 年 6 月至今",
+          "summary": "<p>2021级（2025届）本科生，预计 2025 年 6 月毕业。</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "gfz69604t87vrp1po85ffhwc",
+          "visible": true,
+          "institution": "天津大学",
+          "studyType": "本科生",
+          "area": "工科试验班（高新舰船与海洋装备智能设计与管理）",
+          "score": "",
+          "date": "2020 年 9 月至 2022 年 6 月",
+          "summary": "<p>2020 年入学，于 2022 年通过转专业考核降转入智能与计算学部 2021 级。</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "experience": {
+      "name": "实习经验",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "experience",
+      "items": [
+        {
+          "id": "o2iyske0hx4tzb38rqlbx2mr",
+          "visible": true,
+          "company": "百度",
+          "position": "智能小程序研发部 前端AI应用工程师实习生",
+          "location": "",
+          "date": "2023 年 12 月 13 日至今",
+          "summary": "<p style=\"text-align: justify\">在实习期间，我更加深刻地体会到了大团队之间的工作流，熟悉了正常的“调研-开发-测试-上线”流程，还对 AI 大模型相关的知识了更深刻的认知…… 除做了许多调研任务之外，我主要参与了两个比较重要的项目开发：</p><ul><li><p style=\"text-align: justify\">文心智能体平台-智能体能力插件-数据可视化与前端代码生成两个官方工具的开发</p><p style=\"text-align: justify\">这两个工具为 Agent 提供了将数据可视化为 ECharts 图表和根据自然语言生成前端代码并预览的能力。主要采用 Nest.js 技术栈并以后端服务的形式来开发的。我不仅从中学习到了许多大模型相关的知识，还学习到了后端开发中的许多优秀的设计思路与代码架构……</p></li><li><p style=\"text-align: justify\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://agents.baidu.com/community\">文心智能体平台-开发者社区</a>的搭建</p><p style=\"text-align: justify\">主要采用 Vue3 + Vite + TypeScript 技术栈，我主要负责主页、列表页和通用组件的开发。我从中实践到了前期技术调研、评审文档撰写、开发节奏把控、联调提测与上线和问题修复流程的整个过程……</p></li></ul><p style=\"text-align: justify\">这份实习经验对我来说是非常宝贵的，让我对将要从事的工作有了更加充分的认识与准备，学习到了许多在校内学不到的知识。</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "t2zfqr3gjymfjjvzqvlvht77",
+          "visible": true,
+          "company": "天津哈希碰撞科技有限责任公司",
+          "position": "技术合伙人",
+          "location": "",
+          "date": "2021 年 10 月起",
+          "summary": "<p style=\"text-align: justify\">这是和学长一起的创业公司，我们仿照互联网敏捷开发模型，找到了校内许多热衷产品及开发技术的同学们组成团队。利用课外时间，研究探讨有价值的互联网产品，并进行开发上线。以下是我参与的几个具有代表性的项目：</p><ul><li><p style=\"text-align: justify\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://www.hasmash.com/\">宝贝听我说APP/官网/管理后台</a></p><p style=\"text-align: justify\">这是一款面向家庭婴幼儿启蒙教育的APP，为他们提供了一个平台来使用自己优化定制后的声音为孩子录制故事并播放。我主要负责的部分是官网和后台的前端部分开发。官网主要采用了 Nuxt.js 技术栈，是出于服务端渲染利于 SEO 优化和官网静态站点 SSG 生成的特性来考虑的。后台主要采用了 Vue + Vuetify 组件库（出于移动端适配的考虑）来写的，涉及剧本管理、效果定制等较多业务逻辑。</p></li><li><p style=\"text-align: justify\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://apps.apple.com/cn/app/%E5%93%84%E7%9D%A1%E5%AE%9D-%E4%B8%93%E4%B8%BA%E5%AE%B6%E9%95%BF%E7%BB%99%E5%AD%A9%E5%AD%90%E8%AE%B2%E6%95%85%E4%BA%8B%E6%89%93%E9%80%A0/id1643376482\">哄睡宝APP/官网/管理后台</a></p><p style=\"text-align: justify\">这是结合了新时期 AI 的能力开发的新 APP，在前作核心声音处理算法的基础上增添了利用 AI 生成父母声音的功能，并且后期拓展出了“萌鸭AI绘本” APP，可以由 AI 生成指定的风格和含有指定角色的儿童绘本。我主要负责 APP 的前端开发与官网和管理后台的前端开发。APP 部分是使用 Flutter 技术栈的，我基于前作的脚手架框架和新的设计风格，写了大量新业务相关的页面。官网和管理后台部分技术栈和之前基本一样。</p></li><li><p style=\"text-align: justify\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://github.com/pamaforce/TJU_ChatBot\">天大校务ChatBot微信小程序</a></p><p style=\"text-align: justify\">这是一款面向天津大学师生的校务咨询微信小程序，提供了一种以聊天方式获取想要的校务信息，主要涉及技术为 RAG 搜索。我主要负责的是整体技术方案讨论和小程序前端部分。小程序采用 UniApp 技术栈开发，主要出于它社区较完善、比原生写法更友好并且接近 Vue 语法的角度来考虑的。</p></li></ul><p style=\"text-align: justify\">我在这些项目中积累了一定的经验并在与其他团队成员密切交流的过程中熟悉了他们的工作，还参与了市场调研与用户回访、各环节数据埋点与分析、应用合规文件准备、软件著作权申请、各大应用市场审核上架与版本迭代等环节。</p><p style=\"text-align: justify\"></p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "volunteer": {
+      "name": "志愿活动",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "volunteer",
+      "items": [
+        {
+          "id": "smklenl0tal7xa6za0bwnrxt",
+          "visible": true,
+          "organization": "爱在可可西里高校联盟",
+          "position": "暑期社会实践",
+          "location": "",
+          "date": "",
+          "summary": "<p></p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "h7ez11y0msnd8ca1flbqjuwh",
+          "visible": true,
+          "organization": "疫苗接种工作",
+          "position": "学生志愿者",
+          "location": "",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "oeqgxrafnbtpl0udzjzhxio2",
+          "visible": true,
+          "organization": "信息技术宣传工作",
+          "position": "社区志愿者",
+          "location": "",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "oy8teo6nf41hgr77boi5ebr8",
+          "visible": true,
+          "organization": "……",
+          "position": "",
+          "location": "",
+          "date": "",
+          "summary": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "interests": {
+      "name": "兴趣爱好",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "interests",
+      "items": [
+        {
+          "id": "bpfxlk20x7roun7lacdm5f6h",
+          "visible": true,
+          "name": "软件开发",
+          "keywords": []
+        },
+        {
+          "id": "wl9xnkjelf9dv0tkfspb5adz",
+          "visible": true,
+          "name": "电子竞技",
+          "keywords": []
+        },
+        {
+          "id": "uib4q5uswuwjjfqmpsy8jzyq",
+          "visible": true,
+          "name": "乒乓球",
+          "keywords": []
+        },
+        {
+          "id": "rj4bzv21d6f7hsxsdoc7ejmr",
+          "visible": true,
+          "name": "……",
+          "keywords": []
+        }
+      ]
+    },
+    "languages": {
+      "name": "主要技术栈",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "languages",
+      "items": [
+        {
+          "id": "j8ogeq3ibb222q85tcsdy0hk",
+          "visible": true,
+          "name": "Vue 3.x (Vite + TS)",
+          "description": "",
+          "level": 5
+        },
+        {
+          "id": "r9nso6edw3136bgywblg2qcl",
+          "visible": true,
+          "name": "Vue 2.x (Webpack)",
+          "description": "",
+          "level": 5
+        },
+        {
+          "id": "xuh0scsiragn0mxrtg8f1zuk",
+          "visible": true,
+          "name": "ExpressJs/NestJs (Node.js)",
+          "description": "",
+          "level": 5
+        },
+        {
+          "id": "s70mnnjwaigdbteacmbm8fro",
+          "visible": true,
+          "name": "Uniapp",
+          "description": "",
+          "level": 5
+        },
+        {
+          "id": "mlxftf0jj1odjzlwpltffdcr",
+          "visible": true,
+          "name": "Flutter (Dart)",
+          "description": "",
+          "level": 5
+        },
+        {
+          "id": "qxnndcmtnwwbc6oy6s4alvbt",
+          "visible": true,
+          "name": "Qt (C++)",
+          "description": "",
+          "level": 4
+        },
+        {
+          "id": "qua7thvpwjk4cp88kzxy77qc",
+          "visible": true,
+          "name": "Springboot (Java)",
+          "description": "",
+          "level": 4
+        },
+        {
+          "id": "d53i6rewk9e14xgb6j8d31lf",
+          "visible": true,
+          "name": "Django/Flask/Eel/FastAPI (Python)",
+          "description": "",
+          "level": 4
+        },
+        {
+          "id": "krvofoki3u3ff9zi3fc4jtw7",
+          "visible": true,
+          "name": "React/Svelte",
+          "description": "",
+          "level": 3
+        },
+        {
+          "id": "ghuaddx3fr3dhiulvlkhgxqs",
+          "visible": true,
+          "name": "Laravel (PHP)/……",
+          "description": "",
+          "level": 3
+        }
+      ]
+    },
+    "profiles": {
+      "name": "社交平台",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "profiles",
+      "items": [
+        {
+          "id": "yypq6vwbb6mtg48enz9mljll",
+          "visible": true,
+          "network": "GitHub",
+          "username": "pamaforce",
+          "icon": "github",
+          "url": {
+            "label": "",
+            "href": "https://github.com/pamaforce"
+          }
+        },
+        {
+          "id": "omx8g2i1drbow25whus3y5a7",
+          "visible": true,
+          "network": "WeChat",
+          "username": "midmaxo",
+          "icon": "",
+          "url": {
+            "label": "wechat",
+            "href": ""
+          }
+        },
+        {
+          "id": "gcoplhtelpaguq47zfergwsm",
+          "visible": true,
+          "network": "Tencent QQ",
+          "username": "1327374483",
+          "icon": "",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "projects": {
+      "name": "较有代表性的项目",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "projects",
+      "items": [
+        {
+          "id": "tvcai6jxjio6mwmux6damgj9",
+          "visible": true,
+          "name": "历年天津大学设计年展、天津大学工业设计专业官网",
+          "description": "",
+          "date": "每年 5 月的最后一周",
+          "summary": "<p style=\"text-align: justify\">主要包括 <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://github.com/pamaforce/TJU_idesign_marseum\">第八届</a>、<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://github.com/pamaforce/TJU_idesign_mixtopia\">第九届</a>、<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://github.com/pamaforce/TJU_idesign_X\">第十届</a>与<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://github.com/pamaforce/TJU_idesign\">官网</a>，前端均由我独自负责，采用技术栈均为 Vue，出于对先进技术栈的拥抱，其中第十届采用了 Vue3 + Vite + TypeScript 的组合。均包含移动端适配、埋点、i18n支持等基础模块。关键与设计师进行有效沟通和调研评估，并在短时间内实现所有内容与性能优化。</p>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "ddxietz41xxgdjphps00brco",
+          "visible": true,
+          "name": "天津大学新党建系统（用户端、支书端及管理端）",
+          "description": "",
+          "date": "2022 年 6 月起",
+          "summary": "<p style=\"text-align: justify\">这个项目是对原党建系统的技术框架、UI、流程等优化需求的响应。项目采用 Vue3 + Vite + TypeScript，并且团队成员（ 3~4 名）使用 git 进行合作。该项目主要的关键点就是与产品和党校方面需要进行大量的沟通，确定正确的流程，并进行准确的实现。其中<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://party.twt.edu.cn/\">用户端与支书端</a>在同一项目内，以登录者的身份来确定跳转路由，<a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://party.twt.edu.cn/admin/\">管理端</a>为另一项目，根据管理者的权限等级来展现相应业务。</p>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        },
+        {
+          "id": "l32jtatatf8pdrugjnlt65li",
+          "visible": true,
+          "name": "Pama's GPT",
+          "description": "",
+          "date": "2023 年 11 月",
+          "summary": "<p style=\"text-align: justify\"><a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"https://github.com/pamaforce/pama-gpt\">该项目</a>是一个基于 GPT 模型的简单对话应用，是一个前后端全栈项目，采用 Vue + Flask + MySQL 的开发框架。AI 能力基于逆向 <a target=\"_blank\" rel=\"noopener noreferrer nofollow\" href=\"http://poe.com\">poe.com</a> API 接口，包含用户系统与聊天会话记录与重置等功能，对话基于 Websocket 协议流式传输。</p>",
+          "keywords": [],
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "publications": {
+      "name": "专利刊物",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "publications",
+      "items": [
+        {
+          "id": "jg09w014mdgjy41afoaxxtct",
+          "visible": true,
+          "name": "实用新型：手持打印机相关专利",
+          "publisher": "",
+          "date": "",
+          "summary": "<p>CN202320150940.3</p><p>CN202320151375.2</p><p>CN202320154190.7</p><p>CN202320163022.4</p>",
+          "url": {
+            "label": "",
+            "href": ""
+          }
+        }
+      ]
+    },
+    "references": {
+      "name": "References",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "references",
+      "items": []
+    },
+    "skills": {
+      "name": "技能特长",
+      "columns": 1,
+      "separateLinks": true,
+      "visible": true,
+      "id": "skills",
+      "items": [
+        {
+          "id": "c6lrfj8xripex2bfa3ys1br7",
+          "visible": true,
+          "name": "JavaScript/TypeScript",
+          "description": "",
+          "level": 5,
+          "keywords": []
+        },
+        {
+          "id": "wm0hu4al3ybtsw7all0o6ri5",
+          "visible": true,
+          "name": "Python",
+          "description": "",
+          "level": 5,
+          "keywords": []
+        },
+        {
+          "id": "paikay16vi0nthuoldgokoge",
+          "visible": true,
+          "name": "Java",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "e2xrz54fpvwzk0n771gtrsg2",
+          "visible": true,
+          "name": "C/C++",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "ivd2mrgiqmhj1h20c0nj6x0d",
+          "visible": true,
+          "name": "Fortran",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "g745vz6c0mz1zqrratbnsr8r",
+          "visible": true,
+          "name": "Dart",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "dq0ft8f5ljvjp9dac0cl72vd",
+          "visible": true,
+          "name": "WebAssembly",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "q8d46cmuf3vyyxa1la0hofzu",
+          "visible": true,
+          "name": "C#",
+          "description": "",
+          "level": 4,
+          "keywords": []
+        },
+        {
+          "id": "vrjcqv6b4pltxs50fp0ktx2i",
+          "visible": true,
+          "name": "GoLang/Ruby/……",
+          "description": "",
+          "level": 3,
+          "keywords": []
+        }
+      ]
+    },
+    "custom": {}
+  },
+  "metadata": {
+    "template": "gengar",
+    "layout": [
+      [
+        [
+          "summary",
+          "education",
+          "awards",
+          "projects"
+        ],
+        [
+          "profiles",
+          "skills"
+        ]
+      ],
+      [
+        [
+          "experience"
+        ],
+        [
+          "languages",
+          "publications",
+          "volunteer",
+          "interests",
+          "references",
+          "certifications"
+        ]
+      ]
+    ],
+    "css": {
+      "value": ".section {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "margin": 16,
+      "format": "a4",
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "theme": {
+      "background": "#ffffff",
+      "text": "#000000",
+      "primary": "#475569"
+    },
+    "typography": {
+      "font": {
+        "family": "IBM Plex Serif",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ],
+        "size": 14
+      },
+      "lineHeight": 1.5,
+      "hideIcons": false,
+      "underlineLinks": true
+    },
+    "notes": ""
+  }
+}
